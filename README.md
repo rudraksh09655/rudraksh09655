@@ -1,4 +1,4 @@
-<img width="1044" height="540" alt="image" src="https://github.com/user-attachments/assets/97c4491a-8939-4ecd-b017-c2e5564f478a" /><h3 align="center">Coding Enthusiast || Passionate about Algorithms & Web Development</h3>
+<h3 align="center">Coding Enthusiast || Passionate about Algorithms & Web Development</h3>
 
 <br/>
 
