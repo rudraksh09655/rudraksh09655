@@ -1,12 +1,12 @@
-<h3 align="center">Coding Enthusiast || Passionate about Algorithms & Web Development</h3>
+<img width="1044" height="540" alt="image" src="https://github.com/user-attachments/assets/97c4491a-8939-4ecd-b017-c2e5564f478a" /><h3 align="center">Coding Enthusiast || Passionate about Algorithms & Web Development</h3>
 
 <br/>
 
 - 🎓 I'm currently pursuing Engineering in Computer Science(Data Science)
 - 🌱 I’m currently learning **AI & ML, Web Development**.
-- 💻 All of my projects are available at [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 💻 All of my projects are available at [https://github.com/rudraksh09655](https://github.com/rudraksh09655)
 - 📧 How to reach me: **rudrakshgupta50@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/13C6jGnGzSu3vEkVi8ms6W0ppCJTXO0xA/view?usp=drive_link)
 
 <br/>
 
@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraksh09655&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rudraksh09655&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
