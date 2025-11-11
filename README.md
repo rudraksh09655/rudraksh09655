@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/rudraksh-gupta-a275072a6/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="rudraksh09655" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/rudraksh_g90" target="blank">
+  <a href="https://www.hackerrank.com/profile/CSDS1C_142" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/hackerrank.svg" alt="rudraksh09655" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/Rudrakshgupta09/" target="blank">
