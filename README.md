@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AI & ML, Web Development**.
 - 💻 All of my projects are available at [https://github.com/rudraksh09655](https://github.com/rudraksh09655)
 - 📧 How to reach me: **rudrakshgupta50@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1WhKU0Bw102BA1zUFSWm4afzRJ2Yl2hPI/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1eg4YgeJ2PaaQF2cyvh8IgsY6K6tl5UFf/view?usp=sharing)
 
 <br/>
 
