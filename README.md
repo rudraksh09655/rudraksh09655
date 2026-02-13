@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudraksh09655&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="github-languages.svg" alt="Top Languages" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rudraksh09655&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="github-stats.svg" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
